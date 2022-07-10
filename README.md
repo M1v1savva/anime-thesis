@@ -1,7 +1,10 @@
 # Anime facial images with StyleGAN
 Conditional generator, transfer learning, low budget
 
-[Read Bachelor's thesis]()
+[Read Bachelor's thesis](https://github.com/M1v1savva/anime-thesis/blob/main/thesis_final.pdf)
+
+Google colab notebooks:<br/>
+[thesis_results](https://colab.research.google.com/drive/1Yc1q1RVkKNN2b9R0usOJSsSJRTdOBN53?usp=sharing)
 
 ---
 
